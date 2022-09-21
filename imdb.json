@@ -1,0 +1,173 @@
+[
+    {
+        "popularity": 82.0,
+        "director": "George Roy Hill",
+        "genre": [
+            "Adventure",
+            "Crime",
+            "Drama",
+            "Western"
+        ],
+        "imdbScore": 8.2,
+        "name": "Butch Cassidy and the Sundance Kid"
+    },
+    {
+        "popularity": 86.0,
+        "director": "Bob Sweeney",
+        "genre": [
+            "Comedy",
+            "Family"
+        ],
+        "imdbScore": 8.6,
+        "name": "The Andy Griffith Show"
+    },
+    {
+        "popularity": 79.0,
+        "director": "John Landis",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Music",
+            "Musical"
+        ],
+        "imdbScore": 7.9,
+        "name": "The Blues Brothers"
+    },
+    {
+        "popularity": 86.0,
+        "director": "Robert Zemeckis",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "imdbScore": 8.6,
+        "name": "Forrest Gump"
+    },
+    {
+        "popularity": 84.0,
+        "director": "Billy Wilder",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbScore": 8.4,
+        "name": "Some Like It Hot"
+    },
+    {
+        "popularity": 48.0,
+        "director": "Bruce Gowers",
+        "genre": [
+            "Game-Show",
+            "Music",
+            "Reality-TV"
+        ],
+        "imdbScore": 4.8,
+        "name": "American Idol : The Search for a Superstar"
+    },
+    {
+        "popularity": 88.0,
+        "director": "David Fincher",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdbScore": 8.8,
+        "name": "Fight Club"
+    },
+    {
+        "popularity": 51.0,
+        "director": "Jack Arnold",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "imdbScore": 5.1,
+        "name": "Revenge of the Creature"
+    },
+    {
+        "popularity": 85.0,
+        "director": "Roman Polanski",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdbScore": 8.5,
+        "name": "Chinatown"
+    },
+    {
+        "popularity": 81.0,
+        "director": "Sam Peckinpah",
+        "genre": [
+            "Action",
+            "Western"
+        ],
+        "imdbScore": 8.1,
+        "name": "The Wild Bunch"
+    },
+    {
+        "popularity": 88.0,
+        "director": "Peter Jackson",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "imdbScore": 8.8,
+        "name": "The Lord of the Rings : The Fellowship of the Ring"
+    },
+    {
+        "popularity": 79.0,
+        "director": "Frank Lloyd",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "imdbScore": 7.9,
+        "name": "Mutiny on the Bounty"
+    },
+    {
+        "popularity": 78.0,
+        "director": "Luis el",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "imdbScore": 7.8,
+        "name": "El"
+    },
+    {
+        "popularity": 84.0,
+        "director": "Stanley Kubrick",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "imdbScore": 8.4,
+        "name": "Full Metal Jacket"
+    },
+    {
+        "popularity": 55.0,
+        "director": "Stanley Kramer",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "imdbScore": 5.5,
+        "name": "The Pride and the Passion"
+    },
+    {
+        "popularity": 80.0,
+        "director": "Rob Reiner",
+        "genre": [
+            "Comedy",
+            "Music"
+        ],
+        "imdbScore": 8.0,
+        "name": "This Is Spinal Tap"
+    }
+]
